@@ -34,12 +34,12 @@ Aqui você encontrará desde fundamentos básicos para quem está começando at�
 
 | Arquitetura                                                                  | Descrição                                                                                       |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Arquitetura em Camadas](./docs/layered-architecture/index.md)               | O clássico dos clássicos. Funciona como uma lasanha (camadas bem definidas e organizadas).      |
-| [Arquitetura Hexagonal](./docs/hexagonal-architecture/index.md)              | Também conhecida como "Ports and Adapters". Isola sua lógica de negócio e facilita integrações. |
-| [Clean Architecture](./docs/clean-architecture/index.md)                     | Priorizando independência. Organize seu código em círculos concéntricos.                        |
-| [Domain-Driven Design (DDD)](./docs/ddd/index.md)                            | Leve o domínio de negócios a sério, modelando sistemas ricos e coesos.                          |
-| [Arquitetura de Microsserviços](./docs/microservices-architecture/index.md)  | Divida para conquistar! Pequenos serviços independentes que fazem mágica juntos.                |
-| [Arquitetura Orientada a Eventos](./docs/event-driven-architecture/index.md) | Responda a eventos e seja reativo! Perfeito para sistemas assíncronos.                          |
+| [Arquitetura em Camadas](./docs/architectures/layered-architecture/index.md)               | O clássico dos clássicos. Funciona como uma lasanha (camadas bem definidas e organizadas).      |
+| [Arquitetura Hexagonal](./docs/architectures/hexagonal-architecture/index.md)              | Também conhecida como "Ports and Adapters". Isola sua lógica de negócio e facilita integrações. |
+| [Clean Architecture](./docs/architectures/clean-architecture/index.md)                     | Priorizando independência. Organize seu código em círculos concéntricos.                        |
+| [Domain-Driven Design (DDD)](./docs/architectures/ddd/index.md)                            | Leve o domínio de negócios a sério, modelando sistemas ricos e coesos.                          |
+| [Arquitetura de Microsserviços](./docs/architectures/microservices-architecture/index.md)  | Divida para conquistar! Pequenos serviços independentes que fazem mágica juntos.                |
+| [Arquitetura Orientada a Eventos](./docs/architectures/event-driven-architecture/index.md) | Responda a eventos e seja reativo! Perfeito para sistemas assíncronos.                          |
 
 ### Padrões de Projeto
 
